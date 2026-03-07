@@ -1,12 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Adrian%20Esguerra&fontSize=60&fontColor=ffffff&fontAlignY=38" />
-
-<!-- Typing animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+things+that+matter.;Full-Stack+%2B+ML+%3D+%E2%9C%A8;React+%7C+Python+%7C+Flutter+%7C+AI;Always+learning%2C+always+shipping." alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=170&section=header&text=Adrian%20Esguerra&fontSize=60&fontColor=ffffff&fontAlignY=38" />
 
 <br/>
 
@@ -81,17 +76,6 @@ class Adrian:
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Adrian's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adriansgrrx&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's Connect & Collaborate!
@@ -100,7 +84,5 @@ class Adrian:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/Adrian%20Esguerra)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:adrianr.esguerra@gmail.com)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
 </div>
