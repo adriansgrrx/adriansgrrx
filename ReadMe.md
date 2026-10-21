@@ -14,22 +14,6 @@
 
 ---
 
-## 🧑‍💻 About Me
-
-```python
-class Adrian:
-    name       = "Adrian Esguerra"
-    location   = "Philippines 🇵🇭"
-    role       = ["Full-Stack Developer", "ML Engineer", "UI/UX Enthusiast"]
-    stack      = ["React", "Python", "Flutter", "Express.js", "TensorFlow"]
-    interests  = ["AI/ML", "Web Dev", "Mobile Apps", "Data Engineering"]
-    currently  = "Building & shipping cool projects 🚀"
-    email      = "adrianr.esguerra@gmail.com"
-
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something awesome. 🙌")
-```
-
 ---
 
 ## 🛠️ Tech Stack
