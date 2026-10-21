@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
