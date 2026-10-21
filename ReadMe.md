@@ -14,8 +14,6 @@
 
 ---
 
----
-
 ## 🛠️ Tech Stack
 
 ### 🌐 Frontend
