@@ -2,10 +2,6 @@
 
 I am a Computer Engineer graduate from PUP Manila specializing in Big Data, passionate about computer vision, master data management, and building AI-driven solutions that solve real-world problems.
 
-<a href="https://github.com/adriansgrrx">
-  <img src="https://github-readme-stats.vercel.app/api?username=adriansgrrx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=39d353" alt="Adrian's GitHub Stats" />
-</a>
-
 ### 🚀 About Me
 
 - 💼 **Master Data Administrator** at **Vertiv**, where I built **"Ivy"**, an AI-powered MDM Chat Agent (2x Spotlight Award recipient).
